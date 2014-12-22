@@ -1,9 +1,0 @@
-project
-/////////////////////////////////////////////////////////
-
-
-1   now my current job is to finish http file transfer mode , to make sure that
-    my project could work very well.
-
-2   when i finish the http protocol theory , i think i could master http program
-    design , acttually it inspire me very much
